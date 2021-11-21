@@ -1,4 +1,4 @@
-# genetic-algorithm
+## genetic-algorithm
 
 implement the Genetic Algorithm with Python to try to solve
 the Travelling salesman problem. TSP is an NP-Hard problem that asks the following question:
